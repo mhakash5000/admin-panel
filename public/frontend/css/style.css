@@ -1,0 +1,32 @@
+.carousel-item {
+    height: 312px;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .social{
+    margin-left: -39px;
+  }
+.social ul li{
+display: inline-block;
+text-decoration: none;
+}
+.social ul li a{
+border-radius: 50px;
+background-color: aqua;
+color: beige;
+
+}
+.social ul li a i{
+  border-radius: 50px;
+  background-color: red;
+ padding: 10px;
+  }
+.social ul li a i:hover{
+    border-radius: 50px;
+    background-color:darkcyan;
+    padding: 15px;
+ }
